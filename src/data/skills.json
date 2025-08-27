@@ -8,6 +8,14 @@
     "imageSrc": "skills/css.png"
   },
   {
+    "title": "JS",
+    "imageSrc": "skills/JS.png"
+  },
+  {
+    "title": "C++",
+    "imageSrc": "skills/CPP.png"
+  },
+  {
     "title": "React",
     "imageSrc": "skills/react.png"
   },
@@ -16,19 +24,7 @@
     "imageSrc": "skills/node.png"
   },
   {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
-  },
-  {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
-  },
-  {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
-  },
-  {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
   }
 ]

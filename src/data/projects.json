@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Efficient Spell Checker",
+    "imageSrc": "projects/project1.png",
+    "description": "A web app providing spelling checks and suggestions, created for learning new tech.",
+    "skills": ["C++", "React", "JS"],
+    "demo": "https://efficient-spell-checker.vercel.app/",
+    "source": "https://github.com/lovishlm/efficient-spell-checker"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Product API",
+    "imageSrc": "projects/project2.png",
+    "description": "Product fetching API with authentication, providing product details via API key access.",
+    "skills": ["React", "API"],
+    "demo": "https://product-api-beryl-beta.vercel.app/",
+    "source": "https://github.com/lovishlm/Product_api"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Earthquake Detection using IoT",
+    "imageSrc": "projects/project3.png",
+    "description": "An IoT-based system to detect earthquakes and alert users in real-time.",
+    "skills": ["IoT", "C++"],
+    "demo": "https://drive.google.com/drive/folders/16A2j8o504WvI4YrDPq1TEzAaJFABYzwB",
+    "source": "https://github.com/lovishlm/Earthquake_Detection"
   }
 ]
